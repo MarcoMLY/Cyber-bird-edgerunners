@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2407334774076137558
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202074, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202075, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: m_Name
+      value: BigEnemyKillParticles Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _maxSpeed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _minSpeed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _minLifeTime
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _maxLlifeTime
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _maxParticleAmount
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _minParticleAmount
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _speedOverLifetime.m_Curve.Array.data[1].time
+      value: 0.11065674
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _speedOverLifetime.m_Curve.Array.data[2].time
+      value: 0.24199045
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _speedOverLifetime.m_Curve.Array.data[1].value
+      value: 0.020492554
+      objectReference: {fileID: 0}
+    - target: {fileID: 4955799117239202085, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
+      propertyPath: _speedOverLifetime.m_Curve.Array.data[2].value
+      value: -0.0023885164
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd1b13c454e66114da37343d59e3e785, type: 3}
